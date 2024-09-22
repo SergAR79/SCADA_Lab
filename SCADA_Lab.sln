@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCADA_Lab", "SCADA_Lab.csproj", "{367AA566-D7EF-46E1-A26E-68B212D3D49D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{367AA566-D7EF-46E1-A26E-68B212D3D49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367AA566-D7EF-46E1-A26E-68B212D3D49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367AA566-D7EF-46E1-A26E-68B212D3D49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367AA566-D7EF-46E1-A26E-68B212D3D49D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {835C5804-B661-4BAD-ACF0-7B8A6C9B464A}
+	EndGlobalSection
+EndGlobal
